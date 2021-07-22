@@ -1,4 +1,6 @@
-# Usage
+# OpenapiToProtoCmake
+Cmake helper for generating proto files for protobuf_generate_cpp. depends on https://github.com/nytimes/openapi2proto
+## Usage
 example CMakeLists.txt 
 ```
 cmake_minimum_required(VERSION 3.21.0)
